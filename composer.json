@@ -1,0 +1,6 @@
+{
+  "name": "slattery/yse_partitioned_reflist",
+  "description": "Support partitioning EntityReferenceFieldLists",
+  "type": "drupal-custom-module",
+  "license": "GPL-2.0-or-later"
+}

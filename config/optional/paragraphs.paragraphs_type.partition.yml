@@ -1,0 +1,9 @@
+langcode: en
+status: true
+dependencies: {  }
+id: partition
+label: Partition
+icon_uuid: null
+icon_default: null
+description: 'This does nothing but signify a break in a reorderable array.'
+behavior_plugins: {  }
